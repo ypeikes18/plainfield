@@ -1,0 +1,16 @@
+#contact-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#contact-form > input, textarea {
+    margin: 0.5em;
+    width: 78%;
+    height: 2.5em;
+}
+
+#contact-form > textarea {
+    height: 10em;
+}
+

@@ -1,0 +1,29 @@
+#navbar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+}
+
+#navlinks-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-top: 0.1em solid gray;
+    width: 75%;
+}
+
+#navlinks-container > a {
+    margin: 1em;
+}
+
+
+
+
+
