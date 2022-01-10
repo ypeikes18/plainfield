@@ -13,13 +13,13 @@ const NavBar = (props) => {
             </div>
             
             <div id='navlinks-container'>
-                <Link smooth to="/#home">
+                <Link smooth to="/#navlinks-container">
                     Home
                 </Link>
-                <Link smooth to="/#regions">
+                <Link smooth to="/#map-images-container">
                     Regions
                 </Link>
-                <Link smooth to="/#contact">
+                <Link smooth to="/#contact-form-container">
                     Contact
                 </Link>
             </div>
