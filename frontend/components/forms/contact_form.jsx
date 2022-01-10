@@ -27,6 +27,9 @@ class ContactForm extends React.Component {
                     placeholder='Type your message here...'>
 
                     </textarea>
+                    <button type='submit'>
+                        submit
+                    </button>
                 </form>
             </div>
         )
